@@ -20,7 +20,7 @@
 <div style="display: inline_block">
 <samp><br>
   <p align="left">
-    [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)
+    [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
     
   </p>
 </div>
