@@ -19,10 +19,10 @@
 ## Technologies 💻
 <div style="display: inline_block">
 <samp><br>
-  
-    [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
+  <p align="left">
+    [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)
     
-  
+  </p>
 </div>
 
   ## Tools 🧰
