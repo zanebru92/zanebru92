@@ -25,7 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="55" alt="react logo" title="React JS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="55" alt="sass logo" title="SASS" />  
-   <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,styledcomponents" />
   </p>
 </div>
 
